@@ -1,4 +1,4 @@
-install python
-clone repo
--> pip3 install -r requirements.txt
-run the test
+1. install python
+2. clone repo
+3. -> pip3 install -r requirements.txt
+4. run the test
